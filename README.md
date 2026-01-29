@@ -1,8 +1,10 @@
 # Welcome to the Minecraft: Bedrock Editor! 
-
+# Mojang
 <img alt="Stylized image of the Minecraft Bedrock Editor" src="./_images/editor-header-image.png">
 
 Minecraft Editor is an in-engine, multiblock editing experience focused on making it possible for creators of all skillsets to easily craft high-quality experiences in Bedrock. 
+
+
 
 It is a framework that is designed to allow creators to use more complex tools to build, edit, and test worlds than simple gameplay allows. It leverages the game's built-in JavaScript Scripting API in conjunction with a number of native tools built directly into the game itself, to expose a rich environment in which creators can build tools which empower and enhance their editing experience, in the form of "Editor Extensions." 
 
